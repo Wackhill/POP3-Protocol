@@ -14,10 +14,10 @@ namespace ProtocolPOP3 {
             StreamWriter streamWriter = new StreamWriter(sslStream);
             StreamReader streamReader = new StreamReader(sslStream);
             
-            streamWriter.WriteLine("USER andrei.shpakovskiy@mail.ru");
+            streamWriter.WriteLine("USER YOUR_EMAIL");
             streamWriter.Flush();
             
-            streamWriter.WriteLine("PASS 98765432one");
+            streamWriter.WriteLine("PASS YOUR_PASSWORD");
             streamWriter.Flush();
             
             streamWriter.WriteLine("STAT");
