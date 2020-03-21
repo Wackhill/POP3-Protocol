@@ -1,0 +1,5 @@
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\bin\Debug\ProtocolPOP3.exe
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\bin\Debug\ProtocolPOP3.pdb
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.csprojAssemblyReference.cache
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.exe
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.pdb
