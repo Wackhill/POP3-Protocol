@@ -19,7 +19,7 @@ namespace ProtocolPOP3 {
                                                                         //чтобы отправить большим куском, принудительно
                                                                         //чистим этот буфер.
             
-            streamWriter.WriteLine("PASS 98765432one");                 //То же самое с паролем   
+            streamWriter.WriteLine("PASS password");                    //То же самое с паролем   
             streamWriter.Flush();
             
             streamWriter.WriteLine("STAT");                             //Запрос на количество сообщений в ящике 
